@@ -6,7 +6,7 @@ For usage terms for the apps, you can either check the license file for the apps
 
 Documentation for the code used in the apps can be found on our docs website: [docs.sagemotion.com](http://docs.sagemotion.com/).
 
-Feel free to reach out to us at info@sagemotion.com.
+If you have any questions or problems, feel free to reach out to us at info@sagemotion.com.
 
 
 
